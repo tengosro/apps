@@ -1,0 +1,15 @@
+name: kbCalc
+description: 'Open source floating calculator with a built-in Winamp-style MP3 player — visualizer, equalizer, playlists, podcasts, internet radio.'
+website: 'https://github.com/tengolabs/kbcalc'
+repository: 'https://github.com/tengolabs/kbcalc'
+license: MIT
+keywords:
+  - calculator
+  - music
+  - mp3
+  - winamp
+  - visualizer
+  - equalizer
+  - podcast
+  - radio
+category: Utilities
